@@ -1,0 +1,468 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.all{
+    background-color: hsl(193, 100%, 96%);
+    padding: 3%;
+}
+.one{
+    max-width: 100%;
+    position: absolute;
+}
+.nine{
+    display: none;
+}
+.container1{
+    position: relative;
+    display: flex;
+    max-width: 100%;
+    margin: 3% auto;
+    padding: 2%;
+    justify-content: space-between;
+}
+.try{
+    font-size: 0.7em;
+    background-color: white;
+    padding: 1% 4%;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 3px hsl(0, 0%, 93%);
+}
+.two{
+    max-width: 34%;
+}
+.build{
+    position: relative;
+    font-size: 1.95em;
+    text-align: center;
+    padding: 3%;
+    margin-top: 15%;
+    margin-bottom: 5%;
+}
+.huddle{
+    position: relative;
+    font-size: 1.12em;
+    text-align: center;
+    margin: 0 3%;
+    padding: 3%;
+    line-height: 150%;
+    color: rgb(46, 46, 46);
+}
+.get{
+    position: relative;
+    background-color: hsl(322, 100%, 66%);
+    color: hsl(193, 100%, 96%);
+    font-size: 0.9em; 
+    margin: 5% 10%;
+    text-align: center;
+    padding: 4%;
+    border-radius: 30px;
+}
+img{
+    max-width: 100%;
+}
+.three{
+    position: relative;
+    margin: 5% auto;
+    padding: 5%;
+}
+.grow{
+    margin-top: 15%;
+    margin-bottom: 13%;
+    margin-left: 6%;
+    margin-right: 6%;
+    background-color: white;
+    box-shadow: 0px 0px 10px 3px hsl(0, 0%, 93%);
+    padding: 10%;
+    border-radius: 10px;
+    text-align: center;
+}
+.four{
+    margin-bottom: 10%;
+    padding: 5%;
+}
+.ten{
+    display: none;
+}
+.row{
+    margin: 5%;
+    padding: 3%;
+}
+.gen{
+    font-size: 0.9em;
+    line-height: 150%;
+    color: hsl(208, 11%, 55%);
+}
+.flow{
+    margin-top: 15%;
+    margin-bottom: 13%;
+    margin-left: 6%;
+    margin-right: 6%;
+    background-color: white;
+    box-shadow: 0px 0px 10px 3px hsl(0, 0%, 93%);
+    padding: 10%;
+    border-radius: 10px;
+    text-align: center;
+}
+.five{
+    margin-bottom: 10%;
+    padding: 5%;
+}
+.flowing{
+    font-size: 1.4em;
+    margin: 2%;
+    padding: 1%;
+}
+.you{
+    margin-top: 4%;
+    margin-bottom: 5%;
+    font-size: 0.95em;
+    line-height: 150%;
+    color: hsl(208, 11%, 55%);
+}
+.your{
+    margin: 15% 6%;
+    background-color: white;
+    box-shadow: 0px 0px 10px 3px hsl(0, 0%, 93%);
+    padding: 10%;
+    border-radius: 10px;
+    text-align: center;
+}
+.six{
+    margin-bottom: 10%;
+    padding: 5%;
+}
+.eleven{
+    display: none;
+}
+.user{
+    margin: 5%;
+    padding: 3%;
+}
+.it{
+    font-size: 1em;
+    line-height: 150%;
+    color: hsl(208, 11%, 55%);
+}
+.middle{
+    position: relative;
+    top: 60px;
+    margin-top: 1;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: white;
+    box-shadow: 0 -6px 5px hsl(0, 0%, 93%);
+    padding: 7%;
+    border-radius: 10px;
+}
+.ready{
+    text-align: center;
+    font-size: 1.15em;
+    margin-top: 6%;
+}
+.start{
+    background-color: hsl(322, 100%, 66%);
+    color: hsl(193, 100%, 96%);
+    font-size: 0.75em; 
+    margin-top: 7%;
+    margin-left: 13%;
+    margin-right: 13%;
+    margin-bottom: 4%;
+    text-align: center;
+    padding: 4%;
+    border-radius: 30px; 
+}
+footer{
+    max-width: 100%;
+    z-index: -1;
+    background-color: hsl(192, 100%, 9%);
+    padding: 5%;
+}
+.seven{
+    max-width: 50%;
+    filter: brightness(0) invert(1);
+    margin-top: 30%;
+    margin-bottom: 6%;
+}
+.location{
+    display: flex;
+    padding: 1%;
+    align-items: flex-start;
+    color: rgb(196, 196, 196);
+}
+.ipsum{
+    margin-left: 7%;
+    font-size: 1.1em;
+    line-height: 150%;
+    font-weight: 100;
+}
+.phone{
+    display: flex;
+    padding: 1%;
+    align-items: flex-start;
+    color: rgb(196, 196, 196);
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.num{
+    margin-left: 7%;
+    font-size: 1.2em;
+}
+.mail{
+    display: flex;
+    padding: 1%;
+    align-items: flex-start;
+    color: rgb(196, 196, 196);
+    margin-top: 5%;
+    margin-bottom: 17%;
+}
+.email{
+    margin-left: 7%;
+    font-size: 1.2em;
+}
+.About{
+    color: rgb(196, 196, 196);
+    font-size: 1.2em;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.socials{
+    margin-top: 15%;
+    margin-left: 35%;
+    margin-right: 30%;
+}
+.icon{
+    max-width: 25%;
+    border: 1px solid white;
+    padding: 5%;
+    border-radius: 20px;
+    margin: 2%;
+}
+.copy{
+    font-size: 0.7em;
+    text-align: center;
+    color: rgb(196, 196, 196);
+    margin-top: 5%;
+    margin-left: 14%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+}
+@media screen and (min-width: 1280px){
+    .one{
+        display: none;
+    }
+    .nine{
+        display: initial;
+        position: absolute;
+        max-width: 90%;
+    }
+    .container1{
+        padding: 0;
+        margin: 0 auto;
+    }
+    .try{
+        font-size: 1em;
+        border-radius: 30px;
+    }
+    .three{
+        max-width: 58%;
+        margin-top: 2%;
+        padding: 3%;
+    }
+    .container2{
+        display: flex;
+        justify-content: space-between;
+    }
+    .build{
+        text-align: left;
+        margin-top: 26%;
+        font-size: 2.35em;
+        line-height: 150%;
+        margin-bottom: 1%;
+    }
+    .huddle{
+        text-align: left;
+        font-size: 1.13em;
+        padding: 0;
+        margin: 0;
+        margin-left: 3%;
+    }
+    .get{
+        margin: 5% 3%;
+        margin-right: 40%;
+    }
+    .grow{
+        margin-top: 12%;
+        display: flex;
+        justify-content: space-between;
+        padding-right: 3%;
+        padding-left: 8%;
+        padding-top: 3%;
+        padding-bottom: 3%;
+        margin-bottom: 0;
+    }
+    .four{
+        display: none;
+    }
+    .ten{
+        display: initial;
+        margin-bottom: 10%;
+        max-width: 45%;
+        margin: 0;
+        padding-top: 2%;
+        padding-bottom: 2%;
+        padding-left: 5%;
+
+    }
+    .row{
+        font-size: 1.7em;
+        text-align: left;
+        margin: 0;
+        padding: 0;
+        margin-top: 20%;
+    }
+    .gen{
+        text-align: left;
+        margin-top: 2%;
+        padding-right: 18%;
+        font-size: 1.09em;
+    }
+    .flow{
+        margin-top: 4%;
+        margin-bottom: 0;
+        display: flex;
+        justify-content: space-between;
+        padding-left: 4%;
+        padding-top: 3%;
+        padding-bottom: 5%;
+        padding-right: 1%;
+    }
+    .five{
+        margin-bottom: 10%;
+        max-width: 48%;
+        margin: 0;
+        padding-top: 2%;
+        padding-bottom: 2%;
+        padding-left: 5%;
+    }
+    .flowing{
+        font-size: 1.7em;
+        text-align: left;
+        margin: 0;
+        padding: 0;
+        margin-top: 20%;
+        margin-left: 15%;
+    }
+    .you{
+        text-align: left;
+        padding-right: 0;
+        margin-right: 2%;
+        margin-top: 2%;
+        font-size: 1.08em;
+        margin-left: 15%;
+    }
+    .your{
+        margin-top: 4%;
+        display: flex;
+        justify-content: space-between;
+        padding-right: 3%;
+        padding-left: 8%;
+        padding-top: 3%;
+        padding-bottom: 3%;
+        margin-bottom: 0;
+    }
+    .six{
+        display: none;
+    }
+    .eleven{
+        display: initial;
+        margin-bottom: 10%;
+        max-width: 45%;
+        margin: 0;
+        padding-top: 2%;
+        padding-bottom: 2%;
+        padding-left: 5%;
+    }
+    .user{
+        font-size: 1.7em;
+        text-align: left;
+        margin: 0;
+        padding: 0;
+        margin-top: 20%;
+    }
+    .it{
+        text-align: left;
+        margin-top: 2%;
+        padding-right: 18%;
+        font-size: 1.09em;
+    }
+    .middle{
+        margin-left: 20%;
+        margin-right: 20%;
+        padding: 2%;
+        top: 90px;
+        margin-top: 6%;
+    }
+    .ready{
+        font-size: 2.1em;
+    }
+    .start{
+        font-size: 1.3em; 
+        margin-top: 6%;
+        margin-left: 21%;
+        margin-right: 21%;
+        margin-bottom: 4%;
+        padding: 4%;
+        border-radius: 50px; 
+    }
+    .seven{
+        margin-top: 11%;
+        margin-bottom: 3%;
+    }
+    .container3{
+        display: flex;
+        align-content: space-between;
+    }
+    .contact{
+        padding-right: 0;
+    }
+    .ipsum{
+        font-size: 1em;
+    }
+    .us{
+       white-space: nowrap;
+       margin: 0 5%;
+       position: relative;
+       left: 80px;
+    }
+    .About{
+        margin-bottom: 20%;
+    }
+    .socials{
+        position: relative;
+        left: 100px;
+        margin-top: 0;
+        margin-left: 3%;
+        margin-right: 0;
+    }
+    .icon{
+        max-width: 7%;
+        border: 1px solid white;
+        padding: 1%;
+        border-radius: 40px;
+        margin: 2%;
+        margin-right: 0;
+    }
+    .copy{
+        font-size: 0.9em;
+        text-align: right;
+        margin-top: 2%;
+        margin-right: 1%;
+        margin-bottom: 2%;
+    }
+}
