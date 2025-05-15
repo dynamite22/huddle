@@ -6,9 +6,9 @@ This is a landing page for a company named hudle
 ## brief view of the website
 ## mobile view
 
-![iPhone-13-PRO-127 0 0 1](https://github.com/user-attachments/assets/50ebaaed-7c85-46df-9d8b-a6576ddebdd7)
+![iPhone-13-PRO-127 0 0 1](https://github.com/user-attachments/assets/5ac8916e-1385-421d-ae56-707c06fccc6b)
 
 
 ## desktop view
 
-![Macbook-Air-127 0 0 1 (1)](https://github.com/user-attachments/assets/417bbe22-20e5-4e48-83c0-c3936b6ced4a)
+![Macbook-Air-127 0 0 1 (1)](https://github.com/user-attachments/assets/5cc73b3e-ddd2-4793-9590-9e54fed0e389)
